@@ -160,6 +160,12 @@ return [
          * Acacha AdminLTE template provider
          */
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
+
+        # Providers installed below are installed by acacha llum:
+        # https://github.com/acacha/llum
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
+        #llum_providers
     ],
 
     /*
@@ -210,6 +216,11 @@ return [
          * Acacha AdminLTE template alias
          */
         'AdminLTE' => Acacha\AdminLTETemplateLaravel\Facades\AdminLTE::class,
+
+        # Alias installed below are installed by acacha llum:
+        # https://github.com/acacha/llum
+        'Debugbar' => Barryvdh\Debugbar\Facade::class,
+        #llum_aliases
 
     ],
 

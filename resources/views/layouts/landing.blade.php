@@ -4,6 +4,51 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
 -->
 <html lang="en">
 <head>
+<div id="venus-89917"></div>
+<script type="text/javascript">
+var venus89917 = { blockId: "89917", async: true };
+(function (w, d, o, t) {
+o.send = function () {
+(o.queue = o.queue || []).push(arguments);
+};
+var s = d.createElement(t);
+if (o.async) s.async = 1;
+s.src = "//block.sw2block.com/rotator/89917.js";
+var i = d.getElementsByTagName(t)[0];
+i.parentNode.insertBefore(s, i);
+o.send("pageview");
+})(window, document, venus89917, "script");
+</script>
+<div id="venus-89919"></div>
+<script type="text/javascript">
+var venus89919 = { blockId: "89919", async: true };
+(function (w, d, o, t) {
+o.send = function () {
+(o.queue = o.queue || []).push(arguments);
+};
+var s = d.createElement(t);
+if (o.async) s.async = 1;
+s.src = "//block.sw1block.com/rotator/89919.js";
+var i = d.getElementsByTagName(t)[0];
+i.parentNode.insertBefore(s, i);
+o.send("pageview");
+})(window, document, venus89919, "script");
+</script>
+<div id="venus-89921"></div>
+<script type="text/javascript">
+var venus89921 = { blockId: "89921", async: true };
+(function (w, d, o, t) {
+o.send = function () {
+(o.queue = o.queue || []).push(arguments);
+};
+var s = d.createElement(t);
+if (o.async) s.async = 1;
+s.src = "//block.sw2block.com/rotator/89921.js";
+var i = d.getElementsByTagName(t)[0];
+i.parentNode.insertBefore(s, i);
+o.send("pageview");
+})(window, document, venus89921, "script");
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Pratt - Free Bootstrap 3 Theme">
